@@ -1,5 +1,5 @@
    ---
-   title: Mili Memo
+Mili Memo
    ---
    # Mili Memo
    Le carnet personnel des militaires et des gendarmes : agenda, permissions, journal et bilan de mutation.
