@@ -25,7 +25,7 @@ Le paiement est traité par **Google Play** ou l'**App Store** ; l'éditeur ne r
 Les données de carnet restent sur votre appareil jusqu'à ce que vous les effaciez (*Profil > Tout effacer*) ou que vous désinstalliez l'application.
 
 ## 5. Vos droits
-Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement et d'opposition. Pour les données publicitaires et d'achat, adressez-vous à Google, Apple ou RevenueCat, ou écrivez-nous à **[ADRESSE E-MAIL]**. Vous pouvez aussi saisir la CNIL (www.cnil.fr).
+Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement et d'opposition. Pour les données publicitaires et d'achat, adressez-vous à Google, Apple ou RevenueCat, ou écrivez-nous à **contact@heycocentricks.com**. Vous pouvez aussi saisir la CNIL (www.cnil.fr).
 
 ## 6. Mineurs
 L'application est destinée aux personnels militaires et de gendarmerie majeurs.
