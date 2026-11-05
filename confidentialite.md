@@ -1,5 +1,5 @@
 ---
-   title: Politique de confidentialité — Mili Memo
+Politique de confidentialité — Mili Memo
    ---
    *Dernière mise à jour : 06 Novembre 2026*
 
